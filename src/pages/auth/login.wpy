@@ -42,7 +42,38 @@
   </view>
 </template>
 
+<script>
+  import wepy from 'wepy'
+  import api from '@/utils/api'
 
+  export default class Login extends wepy.page {
+    config = {
+      navigationBarTitleText: '登录'
+    }
+    data = {
+      //用户名
+      username: '',
+      //密码
+      password: '',
+      //是否有错
+      error: false,
+      //错误信息
+      errorMessage: ''
+    }
+    methods = {
+      //绑定用户名 input变化
+      bindUsernameInput (e) {
+        this.username = e.detail.value
+      },
+      //绑定密码input变化
+      bindPasswordInput (e) {
+       this.password = e.detail.value
+      },
+
+    }
+  }
+
+</script>
 
 
 
