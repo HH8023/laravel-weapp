@@ -14,7 +14,7 @@
     <session id="80407573">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="3" />
@@ -32,28 +32,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="wpy" value="76" />
+          <entry key="wpy" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="76" />
+          <entry key="PLAIN_TEXT" value="78" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/auth/login.wpy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,8 +72,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="889" />
-    <option name="y" value="124" />
+    <option name="x" value="690" />
+    <option name="y" value="134" />
     <option name="width" value="1108" />
     <option name="height" value="862" />
   </component>
@@ -104,6 +94,19 @@
               <item name="laravel-weapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-weapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-weapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-weapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-weapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-weapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,16 +148,15 @@
       <updated>1552024053483</updated>
       <workItem from="1552024056367" duration="612000" />
       <workItem from="1552038209344" duration="567000" />
-      <workItem from="1552468752896" duration="120000" />
+      <workItem from="1552468752896" duration="181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1299000" />
+    <option name="totallyTimeSpent" value="1360000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="889" y="124" width="1108" height="862" extended-state="0" />
-    <editor active="true" />
+    <frame x="690" y="134" width="1108" height="862" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3091603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -188,7 +190,7 @@
     <entry file="file://$PROJECT_DIR$/src/pages/auth/login.wpy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
         </state>
       </provider>
     </entry>
